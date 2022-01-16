@@ -10,3 +10,5 @@ Classes we want to classify are {0: sad, 1: angry, 2: happy, 3: disgust, 4: neut
 Datasets can be reached from here: 
 - https://tspace.library.utoronto.ca/handle/1807/24487 
 - https://zenodo.org/record/1188976#.YcsKh2hBxnI
+
+**See the** [Final Report](https://github.com/larafenercioglu/emotion_detection/blob/main/final_report.pdf)
